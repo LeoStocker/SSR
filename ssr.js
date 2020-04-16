@@ -9,6 +9,6 @@ jQuery(document).ready(function($) {
 		$('.wang p').fadeToggle(2000) 	
 	});
 	$('.Huang img').click(function(event) {
-		$('.huang p').fadeToggle(2000) 	
+		$('.Huang p').fadeToggle(2000) 	
 	});
 });
