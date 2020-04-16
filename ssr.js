@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
 	$('.wang img').click(function(event) {
 		$('.wang p').fadeToggle(2000) 	
 	});
-	$('.huang img').click(function(event) {
+	$('.Huang img').click(function(event) {
 		$('.huang p').fadeToggle(2000) 	
 	});
 });
